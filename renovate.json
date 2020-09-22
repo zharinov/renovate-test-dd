@@ -1,4 +1,6 @@
 {
+  "dependencyDashboard": true,
+
   "ansible": {"enabled": false},
   "bazel": {"enabled": false},
   "buildkite": {"enabled": false},
@@ -24,7 +26,7 @@
   "html": {"enabled": false},
   "kubernetes": {"enabled": false},
   "leiningen": {"enabled": false},
-  "maven": {"enabled": false},
+  "maven": {"enabled": true},
   "meteor": {"enabled": false},
   "mix": {"enabled": false},
   "npm": {"enabled": false},
