@@ -1,0 +1,58 @@
+PODS:
+  - Aerodramus (0.3.0):
+    - ISO8601DateFormatter
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (4.0.2):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - ALCameraViewController (2.0.3)
+  - AwesomeEnum (2.0.1)
+  - Canvas (0.1.1)
+  - ISO8601DateFormatter (0.8)
+  - Katana (2.0.0)
+  - ObjectMapper (2.2.9)
+
+DEPENDENCIES:
+  - Aerodramus (= 0.3.0)
+  - AlamofireObjectMapper (~> 4.0)
+  - ALCameraViewController (~> 2)
+  - AwesomeEnum (~> 2.0.1)
+  - Canvas (from `https://github.com/CanvasPod/Canvas.git`, tag `0.1.1`)
+  - Katana (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/artsy/Specs.git:
+    - Aerodramus
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ALCameraViewController
+    - AwesomeEnum
+    - ISO8601DateFormatter
+    - Katana
+    - ObjectMapper
+
+EXTERNAL SOURCES:
+  Canvas:
+    :git: https://github.com/CanvasPod/Canvas.git
+    :tag: 0.1.1
+
+CHECKOUT OPTIONS:
+  Canvas:
+    :git: https://github.com/CanvasPod/Canvas.git
+    :tag: 0.1.1
+
+SPEC CHECKSUMS:
+  Aerodramus: cb58f8cd0fc5104019e8afdfabf0fcd7f9394bf3
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 94923a4320bbe52c1d0d462093277a9d6a755a78
+  ALCameraViewController: 7b86c2888df0e63f53a801e9d96fe194f51157ec
+  AwesomeEnum: c31d6791dd6d0cbf8b24cba1f8187d7ff4939923
+  Canvas: fbfe1dbe19c0885d1ca0f394c81b0d8c1ac44e5d
+  ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
+  Katana: f624d693c272dac8e3a20c5049a34d0821f067c9
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+
+PODFILE CHECKSUM: d8c295cc8cc398f9e9d358e846fccab1b90eb487
+
+COCOAPODS: 1.8.4

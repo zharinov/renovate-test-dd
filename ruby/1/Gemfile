@@ -1,0 +1,3 @@
+source 'http://example.com/content/repositories/brand-rubygems' do
+  gem 'example_gem'
+end

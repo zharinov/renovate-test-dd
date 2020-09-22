@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-CocoapodsExample/Pods-CocoapodsExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ALCameraViewController/ALCameraViewController.framework
+${BUILT_PRODUCTS_DIR}/Aerodramus/Aerodramus.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/AwesomeEnum/AwesomeEnum.framework
+${BUILT_PRODUCTS_DIR}/Canvas/Canvas.framework
+${BUILT_PRODUCTS_DIR}/ISO8601DateFormatter/ISO8601DateFormatter.framework
+${BUILT_PRODUCTS_DIR}/Katana/Katana.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework

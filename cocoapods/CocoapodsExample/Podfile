@@ -1,0 +1,20 @@
+source 'https://cdn.cocoapods.org/'
+source 'https://github.com/Artsy/Specs.git'
+
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.1'
+
+target 'CocoapodsExample' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CocoapodsExample
+
+  pod 'AwesomeEnum', '~> 2.0.1'
+  pod 'AlamofireObjectMapper', '~> 4.0'
+  pod 'Katana', '~> 2.0'
+  pod 'ALCameraViewController', '~> 2'
+  pod 'Canvas', :git => 'https://github.com/CanvasPod/Canvas.git', :tag => '0.1.1'
+  pod 'Aerodramus', '0.3.0'
+end
+
